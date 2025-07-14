@@ -1,15 +1,16 @@
 import funkin.play.character.ScriptedSparrowCharacter;
 import funkin.play.PlayState;
+import funkin.play.GameOverSubState;
+import funkin.play.PauseSubState;
 class JimnithongChristmas extends ScriptedSparrowCharacter {
     function new() {
         super("jimnithong-christmas");
-    }
+            }
 	function onCreate(event:ScriptEvent) {
 		super.onCreate(event);
 
 
 		GameOverSubState.musicSuffix = '-jimnithong';
-		GameOverSubState.blueBallSuffix = '-jimnithong';
 
 		PauseSubState.musicSuffix = '-jimnithong';
 	}
