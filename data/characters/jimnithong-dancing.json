@@ -1,0 +1,245 @@
+{
+	"version": "1.0.0",
+	"renderType": "multisparrow",
+	"offsets": [
+		0,
+		50
+	],
+	"danceEvery": 1,
+	"scale": 1,
+	"name": "Jimnithong",
+	"cameraOffsets": [
+		0,
+		0
+	],
+	"flipX": true,
+	"singTime": 8,
+	"startingAnimation": "danceRight",
+	"isPixel": false,
+	"assetPath": "characters/jimnithong",
+	"healthIcon": {
+		"isPixel": false,
+		"offsets": [
+			0,
+			0
+		],
+		"scale": 1,
+		"flipX": false,
+		"id": "jimnithong"
+	},
+	"animations": [
+		{
+			"offsets": [
+				-20,
+				80
+			],
+			"frameIndices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"prefix": "jimnithidle dance0",
+			"name": "danceRight",
+			"looped": false,
+			"flipX": false,
+			"flipY": false,
+			"frameRate": 24,
+			"assetPath": "characters/jimnithong-dancing"
+		},
+		{
+			"offsets": [
+				-20,
+				80
+			],
+			"frameIndices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27
+			],
+			"prefix": "jimnithidle dance0",
+			"name": "danceLeft",
+			"looped": false,
+			"flipX": false,
+			"flipY": false,
+			"frameRate": 24,
+			"assetPath": "characters/jimnithong-dancing"
+		},
+		{
+			"offsets": [
+				2,
+				71
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "jimnithleft",
+			"flipX": false,
+			"name": "singLEFT",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-25,
+				30
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "jimnithdown",
+			"flipX": false,
+			"name": "singDOWN",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-50,
+				111
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "jimnithup",
+			"flipX": false,
+			"name": "singUP",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-58,
+				73
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "jimnithright",
+			"flipX": false,
+			"name": "singRIGHT",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-17,
+				90
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "jimnithHEY!",
+			"flipX": false,
+			"name": "hey",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-17,
+				90
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "jimnithHEY!",
+			"flipX": false,
+			"name": "hey",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-13,
+				65
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "jimnithACK!",
+			"flipX": false,
+			"name": "ack",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-49,
+				145
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "jimnithMISSNOTEup",
+			"flipX": false,
+			"name": "singUPmiss",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-26,
+				62
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "jimnithMISSNOTEdown",
+			"flipX": false,
+			"name": "singDOWNmiss",
+			"looped": false
+		},
+		{
+			"offsets": [
+				0,
+				75
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "jimnithMISSNOTEleft",
+			"flipX": false,
+			"name": "singLEFTmiss",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-53,
+				73
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "jimnithMISSNOTEright",
+			"flipX": false,
+			"name": "singRIGHTmiss",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-4,
+				62
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "jimnithong YEAH cheer",
+			"flipX": false,
+			"name": "cheer",
+			"looped": false
+		},
+		{
+			"offsets": [
+				5,
+				55
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "jimnithahem",
+			"flipX": false,
+			"name": "ahem",
+			"looped": false
+		}
+	]
+}

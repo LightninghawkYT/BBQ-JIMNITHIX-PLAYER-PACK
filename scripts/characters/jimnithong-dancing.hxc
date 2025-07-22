@@ -1,0 +1,50 @@
+import funkin.play.character.MultiSparrowCharacter;
+import funkin.play.character.CharacterType;
+import funkin.play.PlayState;
+import flixel.FlxG;
+
+class JimnithongDancingCharacter extends MultiSparrowCharacter
+{
+  function new()
+  {
+    super('jimnithong-dancing');
+  }
+
+  var isDancing:Bool = false;
+
+  override function playAnimation(name:String, restart:Bool, ignoreOther:Bool)
+  {
+    if (isDancing)
+    {
+      super.playAnimation(name + '-dancing', restart, ignoreOther);
+    }
+    else
+    {
+      super.playAnimation(name, restart, ignoreOther);
+    }
+  }
+    override function onSongRetry(event:ScriptEvent):Void
+  {
+    super.onSongRetry(event);
+
+    isDancing = false;
+  }
+  
+  function onNoteHit(event:HitNoteScriptEvent)
+  {
+    super.onNoteHit(event);
+
+    if (!event.note.noteData.getMustHitNote() && characterType == CharacterType.BF)
+    {
+      // Override the hit note animation.
+      switch (event.note.kind)
+      {
+        case "dancing":
+          holdTimer = 0;
+          isDancing = true;
+          return;
+      }
+    }
+
+}
+}
