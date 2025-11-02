@@ -1,140 +1,141 @@
 {
-	"version": "1.0.0",
-	"renderType": "sparrow",
+	"danceEvery": 1,
 	"offsets": [
 		0,
 		50
 	],
-	"danceEvery": 1,
+	"renderType": "sparrow",
+	"version": "1.0.0",
 	"scale": 1,
-	"name": "Jimnithevim",
+	"flipX": true,
 	"cameraOffsets": [
 		0,
 		0
 	],
-	"flipX": true,
-	"singTime": 8,
-	"startingAnimation": "idle",
+	"name": "Jimnithong (Holding Kevim)",
 	"isPixel": false,
-	"assetPath": "characters/jimnithevim",
+	"startingAnimation": "idle",
+	"singTime": 8,
 	"healthIcon": {
+		"isPixel": false,
 		"offsets": [
 			0,
 			0
 		],
-		"isPixel": false,
 		"scale": 1,
-		"id": "jimnithevim",
-		"flipX": false
+		"flipX": false,
+		"id": "jimnithong"
 	},
+	"assetPath": "characters/jimnithevim",
+	"generatedBy": "Nova Character Editor REFRESHED v0.1.2",
 	"animations": [
 		{
-			"flipY": false,
 			"offsets": [
 				0,
 				80
 			],
+			"flipY": false,
 			"frameRate": 24,
 			"prefix": "jimnithevimidle",
-			"looped": false,
+			"flipX": false,
 			"name": "idle",
-			"flipX": false
+			"looped": false
 		},
 		{
-			"flipY": false,
 			"offsets": [
-				27,
+				35,
 				91
 			],
+			"flipY": false,
 			"frameRate": 24,
 			"prefix": "jimnithevimleftnote",
-			"looped": false,
+			"flipX": false,
 			"name": "singLEFT",
-			"flipX": false
+			"looped": false
 		},
 		{
-			"flipY": false,
 			"offsets": [
-				5,
-				50
+				21,
+				44
 			],
+			"flipY": false,
 			"frameRate": 24,
 			"prefix": "jimnithevimdownnote",
-			"looped": false,
+			"flipX": false,
 			"name": "singDOWN",
-			"flipX": false
+			"looped": false
 		},
 		{
-			"flipY": false,
 			"offsets": [
-				-45,
-				101
+				-38,
+				98
 			],
+			"flipY": false,
 			"frameRate": 24,
 			"prefix": "jimnithevimupnote",
-			"looped": false,
+			"flipX": false,
 			"name": "singUP",
-			"flipX": false
+			"looped": false
 		},
 		{
-			"flipY": false,
 			"offsets": [
-				-48,
-				78
+				-50,
+				76
 			],
+			"flipY": false,
 			"frameRate": 24,
 			"prefix": "jimnithevimrightnote",
-			"looped": false,
+			"flipX": false,
 			"name": "singRIGHT",
-			"flipX": false
+			"looped": false
 		},
 		{
-			"flipY": false,
 			"offsets": [
 				-49,
 				145
 			],
+			"flipY": false,
 			"frameRate": 24,
 			"prefix": "jimnithevimMISSNOTEup",
-			"looped": false,
+			"flipX": false,
 			"name": "singUPmiss",
-			"flipX": false
+			"looped": false
 		},
 		{
-			"flipY": false,
 			"offsets": [
 				-16,
 				57
 			],
+			"flipY": false,
 			"frameRate": 24,
 			"prefix": "jimnithevimMISSNOTEdown",
-			"looped": false,
+			"flipX": false,
 			"name": "singDOWNmiss",
-			"flipX": false
+			"looped": false
 		},
 		{
-			"flipY": false,
 			"offsets": [
 				0,
 				75
 			],
+			"flipY": false,
 			"frameRate": 24,
 			"prefix": "jimnithevimMISSNOTEleft",
-			"looped": false,
+			"flipX": false,
 			"name": "singLEFTmiss",
-			"flipX": false
+			"looped": false
 		},
 		{
-			"flipY": false,
 			"offsets": [
 				-53,
 				73
 			],
+			"flipY": false,
 			"frameRate": 24,
 			"prefix": "jimnithevimMISSNOTEright",
-			"looped": false,
+			"flipX": false,
 			"name": "singRIGHTmiss",
-			"flipX": false
+			"looped": false
 		}
 	]
 }

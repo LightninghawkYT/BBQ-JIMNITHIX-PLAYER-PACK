@@ -3,7 +3,7 @@ import funkin.play.PlayState;
 import funkin.play.character.CharacterType;
 import funkin.play.GameOverSubState;
 import funkin.play.PauseSubState;
-class Jimnithong extends ScriptedSparrowCharacter {
+class JimnithongCharacter extends ScriptedSparrowCharacter {
     function new() {
         super("jimnithong");
     }
@@ -32,9 +32,6 @@ class Jimnithong extends ScriptedSparrowCharacter {
 		{
 			switch (event.note.kind)
 			{
-				case "ugh":
-					holdTimer = 0;
-					this.playAnimation('ack', false);
 				case "ugh":
 					holdTimer = 0;
 					this.playAnimation('ack', false);

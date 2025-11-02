@@ -18,90 +18,90 @@
 	"startingAnimation": "idle",
 	"singTime": 8,
 	"healthIcon": {
-		"isPixel": false,
 		"offsets": [
 			0,
 			0
 		],
+		"isPixel": false,
 		"scale": 1,
-		"flipX": false,
-		"id": "jimnithong"
+		"id": "jimnithong",
+		"flipX": false
 	},
 	"assetPath": "characters/jimnithong",
 	"generatedBy": "Nova Character Editor v0.1.2",
 	"animations": [
 		{
+			"flipY": false,
 			"offsets": [
 				0,
 				80
 			],
-			"flipY": false,
 			"frameRate": 24,
-			"prefix": "jimnithidle",
 			"frameIndices": null,
-			"flipX": false,
+			"prefix": "jimnithidle",
+			"looped": false,
 			"name": "idle",
-			"looped": false
+			"flipX": false
 		},
 		{
+			"flipY": false,
 			"offsets": [
 				-18,
 				71
 			],
-			"flipY": false,
 			"frameRate": 24,
 			"prefix": "jimnithleft",
-			"flipX": false,
+			"looped": false,
 			"name": "singRIGHT",
-			"looped": false
+			"flipX": false
 		},
 		{
+			"flipY": false,
 			"offsets": [
 				25,
 				30
 			],
-			"flipY": false,
 			"frameRate": 24,
 			"prefix": "jimnithdown",
-			"flipX": false,
+			"looped": false,
 			"name": "singDOWN",
-			"looped": false
+			"flipX": false
 		},
 		{
+			"flipY": false,
 			"offsets": [
 				10,
 				111
 			],
-			"flipY": false,
 			"frameRate": 24,
 			"prefix": "jimnithup",
-			"flipX": false,
+			"looped": false,
 			"name": "singUP",
-			"looped": false
+			"flipX": false
 		},
 		{
+			"flipY": false,
 			"offsets": [
 				32,
 				73
 			],
-			"flipY": false,
 			"frameRate": 24,
 			"prefix": "jimnithright",
-			"flipX": false,
+			"looped": false,
 			"name": "singLEFT",
-			"looped": false
+			"flipX": false
 		},
 		{
+			"flipY": false,
 			"offsets": [
 				-17,
 				90
 			],
-			"flipY": false,
 			"frameRate": 24,
 			"prefix": "jimnithHEY!",
-			"flipX": false,
+			"looped": false,
 			"name": "hey",
-			"looped": false
+			"flipX": false
 		}
 	]
 }
