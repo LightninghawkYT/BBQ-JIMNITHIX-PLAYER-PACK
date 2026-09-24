@@ -56,8 +56,10 @@ class JimnithongCharacter extends MultiSparrowCharacter
 	{
 		var badInst = FlxG.random.int(1, 15);
 		
-		if (badInst == 12) GameOverSubState.musicSuffix = '-reallyBad';
-		else GameOverSubState.musicSuffix = '-jimnithong';
+		if (badInst == 12) 
+			GameOverSubState.musicSuffix = '-reallyBad';
+		else
+			GameOverSubState.musicSuffix = '-jimnithong';
 	}
 }
 

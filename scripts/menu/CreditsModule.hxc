@@ -100,7 +100,10 @@ class CreditsModule extends Module
             body: 
             [
                 {
-                    line: "Jimnithong"
+                    line: "JIMNITHONG"
+                },
+				{
+                    line: "& kevim"
                 }
             ]
 		},
@@ -112,19 +115,16 @@ class CreditsModule extends Module
                     line: "Bluecyberpig"
                 },
 				{
-                    line: "AbsoluteCynder"
+                    line: "Synsomnia"
                 },
 				{
-                    line: "StarmanOmega"
+                    line: "OrbyyOrbinaut"
+                },
+				{
+                    line: "ravenxpawz"
                 },
 				{
                     line: "LuigiGeek347"
-                },
-				{
-                    line: "Ahlyess"
-                },
-				{
-                    line: "My dog, Browny"
                 },
 				{
                     line: "The Jungle Zone"
@@ -140,6 +140,9 @@ class CreditsModule extends Module
                 },
 				{
                     line: "V from Murder Drones <3"
+                },
+				{
+                    line: "My dog, Browny"
                 },
             ]
         }
