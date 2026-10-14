@@ -15,10 +15,7 @@
    "girlfriend": "kevim",
    "opponent": "darnell",
    "instrumental": "jimnithix",
-   "altInstrumentals": [
-    "bf",
-    ""
-   ],
+   "altInstrumentals": ["bf","JIMNITHONGS",""],
    "opponentVocals": [
     "darnell"
    ],
@@ -34,7 +31,7 @@
    "hard": 2
   },
   "album": "jimnithixv1",
-  "stickerPack": "default",
+  "stickerPack": "jimnithgang",
   "previewEnd": 0.0842738664377358
  },
  "generatedBy": "Friday Night Funkin' - v0.8.5",
