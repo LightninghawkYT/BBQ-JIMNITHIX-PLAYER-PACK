@@ -34,20 +34,16 @@ class JimnithongCharacter extends MultiSparrowCharacter
 			switch (event.note.kind)
 			{
 				case "jimnithugh":
-					holdTimer = 0;
-					this.playAnimation('ack', false);
-				default:
-					holdTimer = 0;
-					this.playSingAnimation(event.note.noteData.getDirection(), false);
+        	holdTimer = 0;
+        	this.playAnimation('ack', true, true);
+        	return;
 			}
 			switch (event.note.kind)
 			{
 				case "jimnithey":
-					holdTimer = 0;
-					this.playAnimation('hey', false);
-				default:
-					holdTimer = 0;
-					this.playSingAnimation(event.note.noteData.getDirection(), false);
+        	holdTimer = 0;
+        	this.playAnimation('hey', true, true);
+        	return;
 			}
 		}
 	}
