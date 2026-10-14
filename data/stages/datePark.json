@@ -95,6 +95,16 @@
   {
    "assetPath": "stages/datepark/walkers/blue",
    "atlasSettings": null,
+   "name": "walker-horse",
+   "position": [0, 10],
+   "scale": 0.8,
+   "scroll": [0.95, 0.95],
+   "startingAnimation": null,
+   "zIndex": 20
+  },
+  {
+   "assetPath": "stages/datepark/walkers/horse",
+   "atlasSettings": null,
    "name": "walker-blue",
    "position": [0, 10],
    "scale": 0.8,
