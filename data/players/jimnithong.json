@@ -37,40 +37,40 @@
       {
         "name": "intro",
         "prefix": "jimnithong dj intro",
-        "offsets": [930, 550]
+        "offsets": [800, 500]
       },
       {
         "name": "idle",
         "prefix": "jimnithong dj",
-        "offsets": [930, 550]
+        "offsets": [800, 500]
       },
       {
         "name": "confirm",
         "prefix": "jimnithong dj confirm",
-        "offsets": [930, 550]
+        "offsets": [800, 500]
       },
       {
         "name": "fistPump",
         "prefix": "jimnithong dj cheer",
-        "offsets": [930, 550]
+        "offsets": [800, 500]
       },
       {
         "name": "loss",
         "prefix": "jimnithong dj loss",
-        "offsets": [930, 550]
+        "offsets": [800, 500]
       },
       {
         "name": "charSelect",
         "prefix": "jimnithong dj out to cc",
-        "offsets": [930, 550]
+        "offsets": [800, 500]
       }
     ]
   },
   "charSelect": {
     "position": 5,
     "gf": {
-      "assetPath": "charSelect/neneChill",
-      "animInfoPath": "charSelect/neneAnimInfo",
+      "assetPath": "ui/character-select/characters/nene",
+      "animInfoPath": "ui/character-select/characters/nene",
       "visualizer": true
     }
   },
