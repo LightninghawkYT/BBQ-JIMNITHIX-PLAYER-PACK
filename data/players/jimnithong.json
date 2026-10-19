@@ -37,32 +37,32 @@
       {
         "name": "intro",
         "prefix": "jimnithong dj intro",
-        "offsets": [800, 500]
+        "offsets": [818, 484]
       },
       {
         "name": "idle",
         "prefix": "jimnithong dj",
-        "offsets": [800, 500]
+        "offsets": [818, 484]
       },
       {
         "name": "confirm",
         "prefix": "jimnithong dj confirm",
-        "offsets": [800, 500]
+        "offsets": [818, 484]
       },
       {
         "name": "fistPump",
         "prefix": "jimnithong dj cheer",
-        "offsets": [800, 500]
+        "offsets": [818, 484]
       },
       {
         "name": "loss",
         "prefix": "jimnithong dj loss",
-        "offsets": [800, 500]
+        "offsets": [818, 484]
       },
       {
         "name": "charSelect",
         "prefix": "jimnithong dj out to cc",
-        "offsets": [800, 500]
+        "offsets": [960, 540]
       }
     ]
   },
