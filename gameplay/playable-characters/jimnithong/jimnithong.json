@@ -1,0 +1,147 @@
+{
+  "version": "1.0.0",
+  "name": "Jimnithong",
+  "ownedChars": ["jimnithong", "jimnithong-dark", "jimnithong-christmas", "jimnithong-car", "jimnithong-date"],
+  "showUnownedChars": false,
+  "unlocked": true,
+  "freeplayStyle": "jimnithong",
+  "stickerPack": "standard-jimnithong",
+  "freeplayDJ": {
+    "assetPath": "ui/freeplay/dj/jimnithong/freeplay-jimnithong",
+    "applyStageMatrix": true,
+    "text1": "YEAH",
+    "text2": "THIS IS UNUSED, YEP YEP",
+    "text3": "IM CHEESE",
+    "fistPump": {
+      "introStartFrame": 0,
+      "introEndFrame": 3,
+
+      "loopStartFrame": 3,
+      "loopEndFrame": -1,
+
+      "introBadStartFrame": 0,
+      "introBadEndFrame": 0,
+
+      "loopBadStartFrame": 0,
+      "loopBadEndFrame": -1
+    },
+    "charSelect": {
+      "transitionDelay": 0.40
+    },
+    "animations": [
+      {
+        "name": "intro",
+        "prefix": "jimnithong dj intro",
+        "offsets": [818, 484]
+      },
+      {
+        "name": "idle",
+        "prefix": "jimnithong dj",
+        "offsets": [818, 484]
+      },
+      {
+        "name": "confirm",
+        "prefix": "jimnithong dj confirm",
+        "offsets": [818, 484]
+      },
+      {
+        "name": "fistPump",
+        "prefix": "jimnithong dj cheer",
+        "offsets": [960, 540]
+      },
+      {
+        "name": "loss",
+        "prefix": "jimnithong dj loss",
+        "offsets": [818, 484]
+      },
+      {
+        "name": "charSelect",
+        "prefix": "jimnithong dj out to cc",
+        "offsets": [960, 540]
+      }
+    ]
+  },
+  "charSelect": {
+    "position": 5,
+    "gf": {
+      "assetPath": "ui/character-select/characters/kevim",
+      "animInfoPath": "ui/character-select/characters/kevim",
+      "visualizer": false
+    }
+  },
+  "results": {
+    "music": {
+      "PERFECT_GOLD": "gameplay/playable-characters/jimnithong/results/music/results-perfect/results-perfect",
+      "PERFECT": "gameplay/playable-characters/jimnithong/results/music/results-perfect/results-perfect",
+      "EXCELLENT": "gameplay/playable-characters/jimnithong/results/music/results-excellent/results-excellent",
+      "GREAT": "gameplay/playable-characters/jimnithong/results/music/results-normal/results-normal",
+      "GOOD": "gameplay/playable-characters/jimnithong/results/music/results-normal/results-normal",
+      "SHIT": "gameplay/playable-characters/jimnithong/results/music/results-shit/results-shit"
+    },
+    "perfectGold": [
+      {
+        "renderType": "animateatlas",
+        "assetPath": "gameplay/playable-characters/jimnithong/results/graphics/results-perfect",
+        "zIndex": 500,
+        "scale": 0.88,
+        "offsets": [0, 0],
+        "loopFrame": 91,
+		"applyStageMatrix": true
+      }
+    ],
+    "perfect": [
+      {
+        "renderType": "animateatlas",
+        "assetPath": "gameplay/playable-characters/jimnithong/results/graphics/results-perfect",
+        "zIndex": 500,
+        "scale": 0.88,
+        "offsets": [0, 0],
+        "loopFrame": 91,
+		"applyStageMatrix": true
+      }
+    ],
+    "excellent": [
+      {
+        "renderType": "sparrow",
+        "assetPath": "gameplay/playable-characters/jimnithong/results/graphics/results-placeholder/placeholder",
+        "zIndex": 500,
+		"scale": 0.1,
+        "offsets": [600, 0],
+        "loopFrame": 0,
+		"applyStageMatrix": true
+      }
+    ],
+    "great": [
+      {
+        "renderType": "sparrow",
+        "assetPath": "gameplay/playable-characters/jimnithong/results/graphics/results-placeholder/placeholder",
+        "zIndex": 500,
+		"scale": 0.1,
+        "offsets": [600, 0],
+        "loopFrame": 0,
+		"applyStageMatrix": true
+      }
+    ],
+    "good": [
+      {
+        "renderType": "sparrow",
+        "assetPath": "gameplay/playable-characters/jimnithong/results/graphics/results-placeholder/placeholder",
+        "zIndex": 500,
+		"scale": 0.1,
+        "offsets": [600, 0],
+        "loopFrame": 0,
+		"applyStageMatrix": true
+      }
+    ],
+    "loss": [
+      {
+        "renderType": "animateatlas",
+        "assetPath": "gameplay/playable-characters/jimnithong/results/graphics/results-shit",
+        "zIndex": 500,
+        "offsets": [-175, -225],
+        "loopFrame": 47,
+		"applyStageMatrix": true
+      }
+    ]
+  }
+}

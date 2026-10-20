@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "bgAsset": "ui/freeplay/styles/jimnithong/background-dad",
+  "selectorAsset": "ui/freeplay/styles/jimnithong/difficulty-selector",
+  "numbersAsset": "ui/freeplay/styles/jimnithong/digital-numbers",
+  "capsuleAsset": "ui/freeplay/interface/freeplay-capsule/capsule/capsule-jimnithong",
+  "capsuleTextColors": ["#29cc00", "#00cc5f"],
+  "startDelay": 1.45
+}

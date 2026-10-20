@@ -1,0 +1,40 @@
+{
+  "version": "2.2.4",
+  "songName": "Bopeebo (Jimnithix)",
+  "artist": "ThatJan",
+  "charter": "ThatJan + LightningHawkYT",
+  "offsets": {},
+  "playData": {
+    "difficulties": ["easy", "normal", "hard"],
+    "characters": {
+      "player": "jimnithong",
+      "girlfriend": "kevim",
+      "opponent": "dad",
+      "instrumental": "jimnithix",
+      "altInstrumentals": ["","pico","JIMNITHONGS"],
+      "opponentVocals": ["dad"],
+      "playerVocals": ["jimnithong"]
+    },
+    "stage": "mainStageErect",
+    "noteStyle": "funkin",
+    "ratings": {
+      "easy": 1,
+      "hard": 2,
+      "normal": 2
+    },
+    "album": "jimnithixv1",
+    "stickerPack": "jimnithgang",
+    "previewStart": 0,
+    "previewEnd": 10700
+  },
+  "generatedBy": "Friday Night Funkin' - v0.8.4 (and Jan by hand lol)",
+  "timeFormat": "ms",
+  "timeChanges": [
+    {
+      "t": 0,
+      "b": 0,
+      "bpm": 100,
+      "bt": [4, 4, 4, 4]
+    }
+  ]
+}

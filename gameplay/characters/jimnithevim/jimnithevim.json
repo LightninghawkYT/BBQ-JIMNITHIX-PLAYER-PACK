@@ -1,0 +1,104 @@
+{
+	"danceEvery": 1,
+	"offsets": [0,50],
+	"renderType": "sparrow",
+	"version": "1.0.0",
+	"scale": 1,
+	"flipX": true,
+	"cameraOffsets": [0,0],
+	"name": "Jimnithong (Holding Kevim)",
+	"isPixel": false,
+	"startingAnimation": "idle",
+	"singTime": 8,
+	"healthIcon": {
+		"isPixel": false,
+		"offsets": [0,0],
+		"scale": 1,
+		"flipX": false,
+		"id": "jimnithong"
+	},
+	"assetPath": "gameplay/characters/jimnithevim/jimnithevim",
+	"animations": [
+		{
+			"offsets": [0,80],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "jimnithevimidle",
+			"flipX": false,
+			"name": "idle",
+			"looped": false
+		},
+		{
+			"offsets": [35,91],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "jimnithevimleftnote",
+			"flipX": false,
+			"name": "singLEFT",
+			"looped": false
+		},
+		{
+			"offsets": [21,44],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "jimnithevimdownnote",
+			"flipX": false,
+			"name": "singDOWN",
+			"looped": false
+		},
+		{
+			"offsets": [-38,98],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "jimnithevimupnote",
+			"flipX": false,
+			"name": "singUP",
+			"looped": false
+		},
+		{
+			"offsets": [-50,76],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "jimnithevimrightnote",
+			"flipX": false,
+			"name": "singRIGHT",
+			"looped": false
+		},
+		{
+			"offsets": [-49,145],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "jimnithevimMISSNOTEup",
+			"flipX": false,
+			"name": "singUPmiss",
+			"looped": false
+		},
+		{
+			"offsets": [-16,57],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "jimnithevimMISSNOTEdown",
+			"flipX": false,
+			"name": "singDOWNmiss",
+			"looped": false
+		},
+		{
+			"offsets": [0,75],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "jimnithevimMISSNOTEleft",
+			"flipX": false,
+			"name": "singLEFTmiss",
+			"looped": false
+		},
+		{
+			"offsets": [-53,73],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "jimnithevimMISSNOTEright",
+			"flipX": false,
+			"name": "singRIGHTmiss",
+			"looped": false
+		}
+	]
+}

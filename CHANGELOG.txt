@@ -1,2 +1,27 @@
+Changelog 10/20/26
+-Complete reorganization of the mod
+	-Everything has been updated to match base game's new file system.
+	-Removed unused files.
+	-Updated misc. things
+
+-Added Placeholders to future upcoming things
+	-Added Placeholder Kevim CS atlas.
+	-Added Placeholder Kevim Week 2 Erect Sprites.
+	-Added Placeholder Pixel Icon to Jimnithevim.
+
+-Fixed multiple offsets
+	-Mostly fixed Jimnithong Freeplay DJ offsets (Have not tested fist pump animation, please verify)
+	-Not a fix but we plan to fix loss result screen offsets at some point as they are broken.
+
+-Removed Unused Files
+	-Finally removed the cat.
+	-Removed AI
+	-Removed Herobrine
+
+Known Issues:
+-introText has not been reimplemented yet (lazy)
+-_merge still uses old file system (Engine Issue, can't fix)
+-The aforementioned offset issues with Freeplay and Loss Results
+
 Changelog 6/1/26
--Added Gay
+-Added Gay.
