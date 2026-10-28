@@ -1,0 +1,164 @@
+import funkin.modding.module.Module;
+import funkin.ui.credits.CreditsDataHandler;
+import funkin.audio.FunkinSound;
+
+class CreditsModule extends Module 
+{
+    var MOD_CREDITS:Array<CreditsData> = 
+    [
+        {
+            header: "FNF BBQ :-) JIMNITHIX EXPANSION",
+            body: 
+            [
+                {
+                    line: "A mod created by TEAM BBQ"
+                }
+            ]
+
+        },
+         {
+            header: "Musicians",
+            body: 
+            [
+                {
+                    line: "LightningHawkYT"
+                },
+                {
+                    line: "ThatJan"
+                },
+                {
+                    line: "ImTheShepherd"
+                }
+            ]
+        },
+         {
+            header: "Artists",
+            body: 
+            [
+                {
+                    line: "LightningHawkYT"
+                },
+                {
+                    line: "ThatJan"
+                },
+                {
+                    line: "DingalingzYoManz"
+                }
+            ]
+        },
+         {
+            header: "Programmers",
+            body:
+            [
+                {
+                    line: "ChazbillYT"
+                }
+            ]
+            
+        },
+         {
+            header: "Charters",
+            body: 
+            [
+                {
+                    line: "LightningHawkYT"
+                },
+                {
+                    line: "ThatJan"
+                },
+                {
+                    line: "ImTheShepherd"
+                }
+            ]
+        },
+         {
+
+            header: "Featured Guest Composers (thus far)",
+            body: 
+            [
+                {
+                    line: "maddiesmiles"
+                },
+
+            ]
+        },
+            {
+                header: "Character Design",
+            body: 
+            [
+                {
+                    line: "ThatJan - Jimnithong Cast"
+                },
+                {
+                    line: "caser_ - Bimnithong"
+                }
+            ]
+
+        },
+            {
+            header: "Special Thanks",
+            body: 
+            [
+                {
+                    line: "JIMNITHONG"
+                },
+				{
+                    line: "& kevim"
+                }
+            ]
+		},
+            {
+            header: "ThatJan would like to specially thank",
+            body: 
+            [
+                {
+                    line: "Bluecyberpig"
+                },
+				{
+                    line: "Synsomnia"
+                },
+				{
+                    line: "OrbyyOrbinaut"
+                },
+				{
+                    line: "ravenxpawz"
+                },
+				{
+                    line: "LuigiGeek347"
+                },
+				{
+                    line: "The Jungle Zone"
+                },
+				{
+                    line: "The Sleepy System"
+                },
+				{
+                    line: "The Cookie System"
+                },
+				{
+                    line: "Nene <3"
+                },
+				{
+                    line: "V from Murder Drones <3"
+                },
+				{
+                    line: "My dog, Browny"
+                },
+            ]
+        }
+    ];
+
+    public function new()
+    {
+        super("CreditsModule");
+        this.active = false;
+
+        FlxG.signals.postGameStart.add(function()
+        {
+            for (i in 0...MOD_CREDITS.length)
+            {
+                CreditsDataHandler.CREDITS_DATA.entries.unshift(MOD_CREDITS[MOD_CREDITS.length - 1 - i]);
+            }
+        });
+    }
+}
