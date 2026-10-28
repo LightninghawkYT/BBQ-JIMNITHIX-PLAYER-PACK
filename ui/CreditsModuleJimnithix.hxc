@@ -2,9 +2,9 @@ import funkin.modding.module.Module;
 import funkin.ui.credits.CreditsDataHandler;
 import funkin.audio.FunkinSound;
 
-class CreditsModule extends Module 
+class CreditsModuleJimnithix extends Module 
 {
-    var MOD_CREDITS:Array<CreditsData> = 
+    var MOD_CREDITS_JIMNITHIX:Array<CreditsData> = 
     [
         {
             header: "FNF BBQ :-) JIMNITHIX EXPANSION",
@@ -112,7 +112,7 @@ class CreditsModule extends Module
             body: 
             [
                 {
-                    line: "Bluecyberpig"
+                    line: "Bluefen"
                 },
 				{
                     line: "Synsomnia"
@@ -158,9 +158,9 @@ class CreditsModule extends Module
 
         FlxG.signals.postGameStart.add(function()
         {
-            for (i in 0...MOD_CREDITS.length)
+            for (i in 0...MOD_CREDITS_JIMNITHIX.length)
             {
-                CreditsDataHandler.CREDITS_DATA.entries.unshift(MOD_CREDITS[MOD_CREDITS.length - 1 - i]);
+                CreditsDataHandler.CREDITS_DATA.entries.unshift(MOD_CREDITS_JIMNITHIX[MOD_CREDITS_JIMNITHIX.length - 1 - i]);
             }
         });
     }
