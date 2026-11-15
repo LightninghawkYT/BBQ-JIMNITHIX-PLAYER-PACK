@@ -1,29 +1,49 @@
 {
-  "version": "2.2.4",
-  "songName": "DadBattle (Jimnithix)",
-  "artist": "ThatJan ft. ImTheShepherd",
-  "charter": "ThatJan",
-  "offsets": {},
-  "playData": {
-    "difficulties": ["easy", "normal", "hard"],
-    "characters": {
-      "player": "jimnithong",
-      "girlfriend": "kevim",
-      "opponent": "dad",
-      "instrumental": "jimnithix",
-      "altInstrumentals": ["","pico","JIMNITHONGS"],
-      "opponentVocals": ["dad"],
-      "playerVocals": ["jimnithong"]
-    },
-    "stage": "mainStageErect",
-    "noteStyle": "funkin",
-    "ratings": {"easy": 2, "normal": 3, "hard": 5},
-    "album": "jimnithixv1",
-    "stickerPack": "jimnithgang",
-    "previewStart": 0,
-    "previewEnd": 10700
+ "version": "2.2.8",
+ "songName": "DadBattle (Jimnithix)",
+ "artist": "ThatJan ft. ImTheShepherd",
+ "charter": "ThatJan",
+ "offsets": { },
+ "playData": {
+  "difficulties": [
+   "easy",
+   "normal",
+   "hard"
+  ],
+  "characters": {
+   "player": "jimnithong",
+   "girlfriend": "kevim",
+   "opponent": "dad",
+   "instrumental": "jimnithix",
+   "altInstrumentals": [
+    "",
+    "pico",
+    "JIMNITHONGS"
+   ],
+   "opponentVocals": [
+    "dad"
+   ],
+   "playerVocals": [
+    "jimnithong"
+   ]
   },
-  "generatedBy": "Friday Night Funkin' - v0.8.4 (and Jan by hand lol)",
-  "timeFormat": "ms",
-  "timeChanges": [{"t": 0, "b": 0, "bpm": 180, "bt": [4, 4, 4, 4]}]
+  "stage": "mainStageErect",
+  "noteStyle": "funkin",
+  "ratings": {
+   "easy": 3,
+   "normal": 3,
+   "hard": 5
+  },
+  "album": "jimnithixv1",
+  "previewEnd": 0.119738882618414
+ },
+ "generatedBy": "Friday Night Funkin' - v0.8.7",
+ "timeChanges": [
+  {
+   "t": 0,
+   "b": 0,
+   "bpm": 180,
+   "bt": [4, 4, 4, 4]
+  }
+ ]
 }
