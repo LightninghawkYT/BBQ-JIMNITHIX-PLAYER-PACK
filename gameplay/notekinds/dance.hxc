@@ -1,0 +1,11 @@
+import funkin.play.notes.notekind.NoteKind;
+
+class DanceNoteKind extends NoteKind
+{
+  public function new()
+  {
+    super('dance', 'Dance Notes (Jimnithong)');
+
+    // NOTE: Implemented in jimnithong.hxc
+  }
+}

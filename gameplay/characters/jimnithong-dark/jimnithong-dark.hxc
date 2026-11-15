@@ -1,12 +1,24 @@
 import funkin.play.character.SparrowCharacter;
+import funkin.play.character.MultiSparrowCharacter;
+import funkin.data.character.CharacterRegistry;
 import funkin.play.character.BaseCharacter;
 import funkin.play.character.CharacterDataParser;
 import funkin.play.PlayState;
-import funkin.play.character.SparrowCharacter;
+import funkin.play.character.MultiAnimateAtlasCharacter;
+import funkin.util.HapticUtil;
+import funkin.assets.Assets.AssetType;
 
 class JimnithongDarkCharacter extends SparrowCharacter {
 	function new() {
 		super('jimnithong-dark');
+	}
+	
+	public static function queryAssets(type:AssetType, charId:String):Array<AssetPath>
+	{
+		var results:Array<AssetPath> = MultiSparrowCharacter.queryAssets(type, charId);
+		results = results.concat(MultiSparrowCharacter.queryAssets(type, 'jimnithong'));
+
+		return results;
 	}
 
   var normalChar:BaseCharacter;

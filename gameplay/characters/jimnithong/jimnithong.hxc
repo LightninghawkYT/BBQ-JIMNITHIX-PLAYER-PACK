@@ -41,10 +41,21 @@ class JimnithongCharacter extends MultiSparrowCharacter
         		holdTimer = 0;
         		this.playAnimation('hey', true, true);
         	return;
+			case "mock":
+			    holdTimer = 0;
+				this.playSingAnimation(event.note.noteData.getDirection(), false, 'mock');
+			return;
+			case "dance":
+			    holdTimer = 0;
+				this.playSingAnimation(event.note.noteData.getDirection(), false, 'dance');
+			return;
 			}
+			
 			super.onNoteHit(event);
 		}
 	}
+	
+	
 	
 	function onGameOver()
 	{
