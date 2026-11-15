@@ -17,6 +17,8 @@ class DateParkStage extends Stage
 
 	var tweenMan:FlxTweenManager = new FlxTweenManager();
     var walkers = [];
+	var propIndex = [];
+	var propName = [];
     var refProp:String = "floor";
     var debugText;
 

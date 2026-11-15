@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "text": "TROMBONE",
+  "icon": "trombone",
+  "description": "PLAYING THE TROMBONE FOR BAND PRACTICE",
+  "action": "none",
+  "panel": "mainmenu",
+  "transitioning": false,
+  "order": 5
+}

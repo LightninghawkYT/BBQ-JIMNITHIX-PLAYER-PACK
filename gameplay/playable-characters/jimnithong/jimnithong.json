@@ -8,6 +8,7 @@
   "stickerPack": "standard-jimnithong",
   "freeplayDJ": {
     "assetPath": "ui/freeplay/dj/jimnithong/freeplay-jimnithong",
+	"scriptClass": "",
     "applyStageMatrix": true,
     "text1": "YEAH",
     "text2": "THIS IS UNUSED, YEP YEP",

@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "text": "SoundCloud",
+  "icon": "jimni-soundcloud",
+  "description": "Check out the JIMNITHONG (& kevim)",
+  "action": "none",
+  "panel": "mainmenu",
+  "transitioning": false,
+  "order": 0
+}
