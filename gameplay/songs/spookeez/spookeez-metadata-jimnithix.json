@@ -30,11 +30,12 @@
   "stage": "spookyMansionErect",
   "noteStyle": "funkin",
   "ratings": {
-   "normal": 0,
-   "hard": 8
+   "easy": 2,
+   "normal": 4,
+   "hard": 5
   },
   "album": "jimnithixv1",
-  "stickerPack": "default",
+  "stickerPack": "jimnithgang",
   "previewEnd": 0.258059502737723
  },
  "generatedBy": "Friday Night Funkin' - v0.8.7",
