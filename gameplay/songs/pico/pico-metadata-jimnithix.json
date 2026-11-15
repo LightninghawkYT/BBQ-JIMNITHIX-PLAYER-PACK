@@ -35,8 +35,9 @@
    "hard": 5
   },
   "album": "jimnithixv1",
-  "stickerPack": "jimnithgang",
-  "previewEnd": 0.00115209931231084
+  "stickerPack": "default",
+  "previewStart": 0.0368671779939468,
+  "previewEnd": 0.331804601945521
  },
  "generatedBy": "Friday Night Funkin' - v0.8.7",
  "timeChanges": [
