@@ -1,11 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="jimnithongpixel.png">
-	<!-- Created with Adobe Animate version 22.0.5.191 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="confirm0000" x="0" y="0" width="50" height="50"/>
-	<SubTexture name="confirm0001" x="70" y="0" width="50" height="50"/>
-	<SubTexture name="confirm0002" x="0" y="70" width="50" height="50"/>
-	<SubTexture name="confirm0003" x="70" y="70" width="50" height="50"/>
-	<SubTexture name="confirm-hold0000" x="70" y="70" width="50" height="50"/>
-	<SubTexture name="idle0000" x="0" y="0" width="50" height="50"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Heroic Packer v0.1.7 https://heroicpacker.heroeyad.dev/
+-->
+<TextureAtlas imagePath="jimnithong.png" width="70" height="85" spritePadding="2" borderPadding="0">
+	<SubTexture name="confirm0000" x="35" y="0" width="35" height="39" frameX="-9" frameY="-4" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="confirm0001" x="0" y="43" width="38" height="36" frameX="-6" frameY="-6" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="confirm0002" x="40" y="41" width="30" height="44" frameX="-7" frameY="-1" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="confirm0003" x="0" y="0" width="33" height="41" frameX="-6" frameY="-2" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="confirm-hold0000" x="0" y="0" width="33" height="41" frameX="-6" frameY="-2" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="idle0000" x="35" y="0" width="35" height="39" frameX="-9" frameY="-4" frameWidth="50" frameHeight="50"/>
 </TextureAtlas>
