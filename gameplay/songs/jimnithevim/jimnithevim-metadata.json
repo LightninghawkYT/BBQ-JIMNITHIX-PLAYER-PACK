@@ -1,5 +1,5 @@
 {
- "version": "2.2.4",
+ "version": "2.2.8",
  "songName": "Jimnithevim",
  "artist": "maddiesmiles",
  "charter": "LightningHawkYT",
@@ -13,7 +13,10 @@
   "characters": {
    "player": "jimnithong-date",
    "opponent": "kevim-date",
-   "altInstrumentals": ["","JIMNITHONGS"],
+   "altInstrumentals": [
+    "",
+    "JIMNITHONGS"
+   ],
    "opponentVocals": [
     "kevim-date"
    ],
@@ -23,11 +26,17 @@
   },
   "stage": "datepark",
   "noteStyle": "funkin",
+  "ratings": {
+   "easy": 1,
+   "normal": 2,
+   "hard": 2
+  },
   "album": "jimnithevim",
   "stickerPack": "jimnithevim",
-  "previewEnd": 0
+  "previewStart": 0.368757045944883,
+  "previewEnd": 0.696536107443809
  },
- "generatedBy": "Friday Night Funkin' - v0.8.5",
+ "generatedBy": "Friday Night Funkin' - v0.8.7",
  "timeChanges": [
   {
    "t": 0,
