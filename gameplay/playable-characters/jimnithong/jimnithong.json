@@ -8,7 +8,6 @@
   "stickerPack": "standard-jimnithong",
   "freeplayDJ": {
     "assetPath": "ui/freeplay/dj/jimnithong/freeplay-jimnithong",
-	"scriptClass": "",
     "applyStageMatrix": true,
     "text1": "YEAH",
     "text2": "THIS IS UNUSED, YEP YEP",
@@ -29,6 +28,7 @@
     "charSelect": {
       "transitionDelay": 0.40
     },
+	"useAnimatePosition": false,
     "animations": [
       {
         "name": "intro",
@@ -72,12 +72,12 @@
   },
   "results": {
     "music": {
-      "PERFECT_GOLD": "gameplay/playable-characters/jimnithong/results/music/results-perfect/results-perfect",
-      "PERFECT": "gameplay/playable-characters/jimnithong/results/music/results-perfect/results-perfect",
-      "EXCELLENT": "gameplay/playable-characters/jimnithong/results/music/results-excellent/results-excellent",
-      "GREAT": "gameplay/playable-characters/jimnithong/results/music/results-normal/results-normal",
-      "GOOD": "gameplay/playable-characters/jimnithong/results/music/results-normal/results-normal",
-      "SHIT": "gameplay/playable-characters/jimnithong/results/music/results-shit/results-shit"
+      "PERFECT_GOLD": "gameplay/playable-characters/jimnithong/results/music/results-perfect",
+      "PERFECT": "gameplay/playable-characters/jimnithong/results/music/results-perfect",
+      "EXCELLENT": "gameplay/playable-characters/jimnithong/results/music/results-excellent",
+      "GREAT": "gameplay/playable-characters/jimnithong/results/music/results-normal",
+      "GOOD": "gameplay/playable-characters/jimnithong/results/music/results-normal",
+      "SHIT": "gameplay/playable-characters/jimnithong/results/music/results-shit"
     },
     "perfectGold": [
       {
