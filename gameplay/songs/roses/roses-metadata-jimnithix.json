@@ -1,0 +1,42 @@
+{
+ "version": "2.2.8",
+ "songName": "Roses (Jimnithix)",
+ "artist": "maddiesmiles (feat. ThatJan, LightningHawkYT)",
+ "charter": "maddiesmiles",
+ "offsets": { },
+ "playData": {
+  "difficulties": [
+   "hard"
+  ],
+  "characters": {
+   "player": "jimnithong",
+   "girlfriend": "kevim",
+   "opponent": "senpai-angry",
+   "instrumental": "jimnithix",
+   "opponentVocals": [
+    "senpai-angry"
+   ],
+   "playerVocals": [
+    "jimnithong"
+   ]
+  },
+  "stage": "schoolErect",
+  "noteStyle": "pixel",
+  "ratings": {
+   "normal": 0,
+   "hard": 0
+  },
+  "album": "jimnithixv1",
+  "stickerPack": "default",
+  "previewEnd": 0.355555555555556
+ },
+ "generatedBy": "Friday Night Funkin' - v0.8.7",
+ "timeChanges": [
+  {
+   "t": 0,
+   "b": 0,
+   "bpm": 120,
+   "bt": [4, 4, 4, 4]
+  }
+ ]
+}
