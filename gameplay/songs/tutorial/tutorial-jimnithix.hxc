@@ -1,0 +1,22 @@
+import funkin.play.song.Song;
+import funkin.play.PlayState;
+
+class TurotialJimnithixSong extends Song
+{
+  public function new()
+  {
+    super('tutorial', {
+      variation: 'jimnithix'
+    });
+  }
+  
+  public function onCreate()
+  {
+	PlayState.instance.camGame.fade(0xFF000000, 0, false, null, true);
+  }
+  
+ public function onSongStart()
+  {
+	PlayState.instance.camGame.fade(0xFF000000, 4, true, null, true);
+  }
+}
