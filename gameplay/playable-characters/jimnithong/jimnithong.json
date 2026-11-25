@@ -104,10 +104,10 @@
     "excellent": [
       {
         "renderType": "sparrow",
-        "assetPath": "gameplay/playable-characters/jimnithong/results/graphics/results-placeholder/placeholder",
+        "assetPath": "gameplay/playable-characters/jimnithong/results/graphics/results-poop/some-guy",
         "zIndex": 500,
-		"scale": 0.1,
-        "offsets": [600, 0],
+		"scale": 1,
+        "offsets": [600, 100],
         "loopFrame": 0,
 		"applyStageMatrix": true
       }

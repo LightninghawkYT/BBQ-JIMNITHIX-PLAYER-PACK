@@ -6,11 +6,7 @@
  "charter": "ThatJan",
  "offsets": { },
  "playData": {
-  "difficulties": [
-   "easy",
-   "normal",
-   "hard"
-  ],
+  "difficulties": ["easy", "normal", "hard"],
   "characters": {
    "player": "jimnithong",
    "girlfriend": "kevim",

@@ -1,6 +1,6 @@
 {
  "version": "2.2.8",
- "songName": "Senpai",
+ "songName": "Senpai (Jimnithix)",
  "artist": "LightningHawkYT",
  "charter": "LightningHawkYT",
  "offsets": { },
@@ -14,12 +14,9 @@
    "player": "jimnithong",
    "girlfriend": "kevim",
    "opponent": "senpai",
-   "opponentVocals": [
-    "senpai"
-   ],
-   "playerVocals": [
-    "jimnithong"
-   ]
+   "instrumental": "jimnithix",
+   "opponentVocals": ["senpai"],
+   "playerVocals": ["jimnithong"]
   },
   "stage": "schoolErect",
   "noteStyle": "pixel",
@@ -31,7 +28,8 @@
   },
   "album": "jimnithixv1",
   "stickerPack": "jimnithgang",
-  "previewEnd": 0.000937500022351742
+  "previewStart": 0.135646290391762,
+  "previewEnd": 0.406949044901409
  },
  "generatedBy": "Friday Night Funkin' - v0.8.7",
  "timeChanges": [

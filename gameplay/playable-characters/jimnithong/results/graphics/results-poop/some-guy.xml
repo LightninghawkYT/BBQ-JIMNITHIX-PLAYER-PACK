@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Heroic Packer v0.1.7 https://heroicpacker.heroeyad.dev/
+-->
+<TextureAtlas imagePath="some-guy.png" width="1560" height="1814" spritePadding="2" borderPadding="0">
+	<SubTexture name="who-are-you0000" x="0" y="0" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0001" x="0" y="0" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0002" x="0" y="0" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0003" x="0" y="0" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0004" x="0" y="0" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0005" x="0" y="0" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0006" x="0" y="0" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0007" x="0" y="0" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0008" x="0" y="0" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0009" x="0" y="0" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0010" x="0" y="0" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0011" x="0" y="0" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0012" x="0" y="0" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0013" x="0" y="0" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0014" x="0" y="0" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0015" x="0" y="454" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0016" x="0" y="454" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0017" x="654" y="0" width="452" height="652" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0018" x="654" y="0" width="452" height="652" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0019" x="654" y="654" width="452" height="652" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0020" x="654" y="654" width="452" height="652" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0021" x="0" y="908" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0022" x="0" y="908" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0023" x="1108" y="0" width="452" height="652" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0024" x="1108" y="0" width="452" height="652" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0025" x="1108" y="654" width="452" height="652" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0026" x="1108" y="654" width="452" height="652" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0027" x="0" y="0" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0028" x="0" y="0" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0029" x="0" y="0" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0030" x="0" y="0" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0031" x="0" y="0" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0032" x="0" y="0" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0033" x="0" y="1362" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0034" x="0" y="1362" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0035" x="654" y="1308" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0036" x="654" y="1308" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0037" x="654" y="1308" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0038" x="654" y="1308" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0039" x="654" y="1308" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0040" x="654" y="1308" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0041" x="654" y="1308" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0042" x="654" y="1308" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0043" x="0" y="1362" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0044" x="0" y="1362" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0045" x="0" y="0" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+	<SubTexture name="who-are-you0046" x="0" y="0" width="652" height="452" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="652"/>
+</TextureAtlas>
