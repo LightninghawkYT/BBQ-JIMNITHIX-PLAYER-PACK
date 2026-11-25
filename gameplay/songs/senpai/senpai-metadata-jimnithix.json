@@ -1,0 +1,45 @@
+{
+ "version": "2.2.8",
+ "songName": "Senpai",
+ "artist": "LightningHawkYT",
+ "charter": "LightningHawkYT",
+ "offsets": { },
+ "playData": {
+  "difficulties": [
+   "easy",
+   "normal",
+   "hard"
+  ],
+  "characters": {
+   "player": "jimnithong",
+   "girlfriend": "kevim",
+   "opponent": "senpai",
+   "opponentVocals": [
+    "senpai"
+   ],
+   "playerVocals": [
+    "jimnithong"
+   ]
+  },
+  "stage": "schoolErect",
+  "noteStyle": "pixel",
+  "ratings": {
+   "easy": 0,
+   "normal": 0,
+   "hard": 0,
+   "hard-generated": 0
+  },
+  "album": "jimnithixv1",
+  "stickerPack": "jimnithgang",
+  "previewEnd": 0.000937500022351742
+ },
+ "generatedBy": "Friday Night Funkin' - v0.8.7",
+ "timeChanges": [
+  {
+   "t": 0,
+   "b": 0,
+   "bpm": 144,
+   "bt": [4, 4, 4, 4]
+  }
+ ]
+}

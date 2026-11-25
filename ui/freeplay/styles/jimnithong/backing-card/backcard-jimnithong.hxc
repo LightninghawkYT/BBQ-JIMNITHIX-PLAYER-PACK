@@ -86,13 +86,6 @@ class JimniCard extends BackingCard
     confirmGlow.visible = false;
     confirmGlow2.visible = false;
 	
-	var idkMan = FlxG.random.int(1, 100);
-    if (idkMan == 2) scrollBack = new FlxBackdrop(Paths.image('ui/freeplay/styles/jimnithong/backing-card/sureMan'), 0x01, 20);
-	else scrollBack = new FlxBackdrop(Paths.image('ui/freeplay/styles/jimnithong/backing-card/lowerLoop'), 0x01, 20);
-    scrollBack.setPosition(0, 200);
-    scrollBack.alpha = 0.5;
-    scrollBack.velocity.x = -110;
-    add(scrollBack);
 
     scrollLower = new FlxBackdrop(Paths.image('ui/freeplay/styles/jimnithong/backing-card/lowerLoop'), 0x01, 20);
     scrollLower.setPosition(0, 506);
