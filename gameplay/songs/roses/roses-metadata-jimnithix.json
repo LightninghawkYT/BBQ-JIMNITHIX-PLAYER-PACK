@@ -5,20 +5,14 @@
  "charter": "maddiesmiles",
  "offsets": { },
  "playData": {
-  "difficulties": [
-   "hard"
-  ],
+  "difficulties": ["easy", "normal", "hard"],
   "characters": {
    "player": "jimnithong",
    "girlfriend": "kevim",
    "opponent": "senpai-angry",
    "instrumental": "jimnithix",
-   "opponentVocals": [
-    "senpai-angry"
-   ],
-   "playerVocals": [
-    "jimnithong"
-   ]
+   "opponentVocals": ["senpai-angry"],
+   "playerVocals": ["jimnithong"]
   },
   "stage": "schoolErect",
   "noteStyle": "pixel",
@@ -27,7 +21,7 @@
    "hard": 0
   },
   "album": "jimnithixv1",
-  "stickerPack": "default",
+  "stickerPack": "jimnithgang",
   "previewEnd": 0.355555555555556
  },
  "generatedBy": "Friday Night Funkin' - v0.8.7",
